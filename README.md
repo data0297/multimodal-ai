@@ -1,1 +1,1 @@
-NLP course Tufts 
+Deep Learning for Multimodal-AI course Tufts 
