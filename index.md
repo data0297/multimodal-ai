@@ -2,10 +2,11 @@
 
 **Instructor:** Shuo Zhang, Ph.D, Professor of the Practice, Tufts University   
 **Industry Advisor:** Jeanie Cherng, Ph.D    
+**Research Assistant**: Ishmam Khan (Ishmam.Khan@tufts.edu)  
 **Email:** [Shuo.Zhang@tufts.edu](mailto:Shuo.Zhang@tufts.edu)  
 **Time:** Mondays 6:00–9:00pm  
-**Location:** JCC140, Medford campus, Tufts University      
-**Office Hours:** Mondays 5:00–6:00pm (JCC 525) or by appointment (Zoom)
+**Location:** Anderson Wing TTC, Room 208, Medford campus, Tufts University      
+**Office Hours:** Mondays 4–5pm (JCC 684) or by appointment (Zoom)
 
 ---
 
@@ -46,13 +47,40 @@ To adapt to the rapidly evolving field of AI, this course is designed to simulat
 
 ## Schedule
 
-Forthcoming
+| **Date**                          | **Topic**|**Slides**| **Readings**  | **Assignment**| **Presentation** | **Notes**|
+|------------|-----------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-----------------|--------------|----|
+| **Jan 19** | **<span style="color:#8a0317;font-weight:600;"> <i>No Class </i> </span> (MLK Day)**              |             
+| **Jan 21** | <span style="color:#8a0317;font-weight:600"> <i>Wednesday runs Monday schedule</i> </span>**Introduction; ML recap**           | [Slides] | TBD |        student background survey   <span style="color:#8a0317;font-weight:600"> survey due 9/12</span>      |              |
+| **Jan 26** |  **Machine Learning, Naive Bayes**       | [slides]|TBD                 | HW2.1 Out;   |    |team assignment; homework logistics; github intro
+| **Feb 02**  | **Logistic Regression, Deep Neural Networks**        | [Slides] | TBD   |         HW4.1 out        |              |
+| **Feb 09** |**Word Vectors and Embeddings**      | [Slides]| TBD  | HW5.1 out; <span style="color:#8a0317;font-weight:600"> HW2.1 Due </span>         |  TBD        | Talk about final project rules
+| **Feb 16** | **<span style="color:#8a0317;font-weight:600;"> <i>No Class </i> </span> (President's Day)**   
+| **Feb 23** | **Sequence Labeling, RNN; LSTM; Attention**;      | [Slides]|TBD     | HW9.1 out;      |               |  Tensorflow Keras tutorial (Ishmam)[[Colab]](https://colab.research.google.com/drive/13Ix6I2bELLYd6ZfWajj52SUGcnxeNxt0?usp=sharing)
+| **March 02** | **Self-attention and Transformer**           | [Slides] | TBD           |         | code review4.1-5.1: **Team B**;        |
+| **March 09**  | **Tufts HPC; Linguistics;**  <span style="color:#8a0317;font-weight:600"> guest lecturer </span>                   | [slides] |       TBD       |     <span style="color:#8a0317;font-weight:600"> HW9.1 due </span>            |              |
+| **March 16** | **<span style="color:#8a0317;font-weight:600;"> <i>No Class </i> </span> (Spring recess)**  
+| **March 23** | **BERT**                 | [Slides] | TBD         | <span style="color:#8a0317;font-weight:600"> final project proposal due </span>       | code review9.1: **Team D**; Paper R3: **Team Jacob**    |
+| **March 30** |**LLMs, ChatGPT, CoT, T5**   | [slides] |     TBD       |        HW11.1 out         |    Paper R2: **Team B**        |
+| **April 06** |   **LLMs and RAG**                      | [Slides](https://tufts.box.com/s/xvqeqvwieiqe6mvqmht75xrrgsxwz3ky) | [RAG](https://web.stanford.edu/~jurafsky/slp3/11.pdf)             |     <span style="color:#8a0317;font-weight:600"> HW11.1 due </span>  |  LLM hands-on case study by Ishmam            |
+| **April 13**  |  **SOTA LLMs, Agent, NLP applications**                 | [Slides](https://tufts.box.com/s/wxugnh780fjxjnkm4kpceh2n0ah3ed36) |            |                 |     Paper R4: **Team D**         |
+| **April 20** | **<span style="color:#8a0317;font-weight:600;"> <i>No Class </i> </span> (Patriot's Day)**  
+| **April 27**  | **Final presentation**       |  |                |    |              |                                                                                   |                                                                          |                 |              |
+| **May 09** | **Final paper due**
 
 ---
 
 ## Resources
 
-TBD
-
+- [Course syllabus (PDF)](DATA0297_syllabus_NLP.pdf) 
+- [Final project rules](final-proj.md)
+- [Textbook: <i>Speech and Language Processing 3rd edition</i> by Jurafsky & Martin (SLP3)](https://web.stanford.edu/~jurafsky/slp3/ed3book_aug25.pdf )
+- [Course Canvas](https://canvas.tufts.edu/courses/67839)
+- [Course GitHub](https://github.com/Tufts-University/NLP-Fall25)
+- [Tufts academic calendar](https://students.tufts.edu/registrar/courses-and-calendars/academic-calendar)
+- [Assignment & presentation workflow](teams.md)
+- [Research paper readings](readings.md)
+- [Guest lectures](guest-speaker.md)
+- [Proposed final projects](projects.md)
 
 ---
+
