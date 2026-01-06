@@ -2,10 +2,11 @@
 
 **Instructor:** Shuo Zhang, Ph.D, Professor of the Practice, Tufts University   
 **Industry Advisor:** Jeanie Cherng, Ph.D    
+**Research Assistant**: Ishmam Khan (Ishmam.Khan@tufts.edu)  
 **Email:** [Shuo.Zhang@tufts.edu](mailto:Shuo.Zhang@tufts.edu)  
 **Time:** Mondays 6:00–9:00pm  
-**Location:** JCC140, Medford campus, Tufts University      
-**Office Hours:** Mondays 5:00–6:00pm (JCC 525) or by appointment (Zoom)
+**Location:** Anderson Wing TTC, Room 208, Medford campus, Tufts University      
+**Office Hours:** Mondays 4–5pm (JCC 684) or by appointment (Zoom)
 
 ---
 
@@ -46,13 +47,43 @@ To adapt to the rapidly evolving field of AI, this course is designed to simulat
 
 ## Schedule
 
-Forthcoming
+| **Week**|**Date**                          | **Topic**|**Slides**| **Readings**  | **Assignment**| **Presentation** | **Notes**|
+|-----|------------|-----------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------|-----------------|--------------|----|
+|-| **Jan 19** | **<span style="color:#8a0317;font-weight:600;"> <i>No Class </i> </span> (MLK Day)**              |             
+|1| **Jan 21** | <span style="color:#8a0317;font-weight:600"> <i>Wednesday runs Monday schedule</i> </span>**Introduction to multimodal AI**           | [Slides] | [classification](https://cs231n.github.io/classification/); [linear models](https://cs231n.github.io/linear-classify/)
+|        student background survey   <span style="color:#8a0317;font-weight:600"> survey due 1/25</span>      |              |homework logistics; github intro
+|2| **Jan 26** |  **Machine Learning Review; Computer Vision**       | [slides]|TBD                 | HW2.1 Out;   |    |team assignment; Tensorflow tutorial[[Colab]](https://colab.research.google.com/drive/13Ix6I2bELLYd6ZfWajj52SUGcnxeNxt0?usp=sharing)
+|3| **Feb 02**  | **Deep Neural Network**        | [Slides] | TBD   |         HW3.1 out        |              |
+|4| **Feb 09** |**Convolutional Neural Network**      | [Slides]| TBD  | <span style="color:#8a0317;font-weight:600"> HW2.1 & 3.1 Due </span>         |          | 
+|-| **Feb 16** | **<span style="color:#8a0317;font-weight:600;"> <i>No Class </i> </span> (President's Day)**   
+|5| **Feb 19** | **CNN architectures**      | [Slides]|TBD     | HW5.1 out  |               |  
+|6| **Feb 23** | **Intro to NLP; word vectors**           | [Slides] | TBD           |  <span style="color:#8a0317;font-weight:600">  HW5.1 due</span>     |        |
+|7| **March 02**  | **RNN, LSTM, Transformer, LLMs**            | [slides] |       TBD       |      HW8.1 out         |              |
+|-| **March 09** | **<span style="color:#8a0317;font-weight:600;"> <i>No Class </i> </span> (Spring recess)**  
+|8| **March 16** | **Multimodal Large Language Models**                 | [Slides] | TBD         | HW11.1 out; <span style="color:#8a0317;font-weight:600"> HW8.1 due </span>       |   |
+|9| **March 23** |**Working with audio data**   | [slides] |     TBD       |     |            |
+|10| **March 30** |   **DNN architectures for audio task**                      | [Slides] | TBD           |     <span style="color:#8a0317;font-weight:600"> HW11.1 due </span>; <span style="color:#8a0317;font-weight:600"> final project proposal due </span>  |          |
+|11| **April 06**  |  **Speech, MIR, and DCASE**                 | [Slides] |            |                |         |
+|12| **April 13** | **Multimodal audio models**           | [Slides] | [CLAP](https://arxiv.org/abs/2206.04769)         |         |         |
+|-| **April 20** | **<span style="color:#8a0317;font-weight:600;"> <i>No Class </i> </span> (Patriot's Day)**  
+|13| **April 27**  | **Final presentation**       |  |                |    |              |                                                                                   |                                                                          |                 |              |
+|-| **May 10** | **Final paper due**
 
 ---
 
 ## Resources
 
-TBD
-
+- [Course syllabus (PDF)](DATA0297_syllabus_NLP.pdf) 
+- [Final project rules](final-proj.md)
+- [Textbook: <i>Speech and Language Processing 3rd edition</i> by Jurafsky & Martin (SLP3)](https://web.stanford.edu/~jurafsky/slp3/ed3book_aug25.pdf )
+- [Course Canvas](https://canvas.tufts.edu/courses/67839)
+- [Course GitHub](https://github.com/Tufts-University/NLP-Fall25)
+- [Tufts academic calendar](https://students.tufts.edu/registrar/courses-and-calendars/academic-calendar)
+- [Assignment & presentation workflow](teams.md)
+- [Research paper readings](readings.md)
+- [Guest lectures](guest-speaker.md)
+- [Proposed final projects](projects.md)
+- [Supplemental Material](supplement.md)
 
 ---
+
