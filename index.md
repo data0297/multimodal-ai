@@ -14,11 +14,35 @@
 
 ## Announcements
 
-> **[Note on this website]**: This course website provides a quick and practical guide to this course. The website will be updated throughout the term to reflect the latest information. For a comprehensive syllabus please see below.
-> 
-> **[Notes on Slides]:** Slides links will be updated throughout the term.
-> 
-> **[Notes on homework]** Please refer to the Canvas for when the homework is assigned and due. The homework itself is available on the course github repo. 
+<blockquote style="
+  border-left: 6px solid #118fcf; 
+  background-color: #f0f0f0; 
+  color: #000; 
+  padding: 10px 15px; 
+  ">
+  
+<span style="font-weight:bold;">[Note on this website]</span>: This course website provides a quick and practical guide to this course. The website will be updated throughout the term to reflect the latest information. For a comprehensive syllabus please see below.
+</blockquote>
+
+
+<blockquote style="
+  border-left: 6px solid #118fcf; 
+  background-color: #f0f0f0; 
+  color: #000; 
+  padding: 10px 15px; "
+>
+
+<span style="font-weight:bold;">[Notes on Slides]:</span> Slides links will be updated throughout the term.
+</blockquote>
+<blockquote style="
+  border-left: 6px solid #118fcf; 
+  background-color: #f0f0f0; 
+  color: #000; 
+  padding: 10px 15px; "
+>
+ 
+ <span style="font-weight:bold;">[Notes on homework]</span> Please refer to the Canvas for when the homework is assigned and due. The homework itself is available on the course github repo. 
+ </blockquote>
 
 >
 
