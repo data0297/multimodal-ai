@@ -99,7 +99,7 @@ To adapt to the rapidly evolving field of AI, this course is designed to simulat
 - [Course syllabus (PDF)](DATA0297_syllabus_SPR.pdf) 
 - [Final project rules](final-proj.md)
 - [Textbook reference: <i>Speech and Language Processing 3rd edition</i> by Jurafsky & Martin (SLP3)](https://web.stanford.edu/~jurafsky/slp3/ed3book_aug25.pdf ); [<i>Dive into Deep Learning</i> (D2L)](https://d2l.ai)
-- [Course Canvas](https://canvas.tufts.edu/courses/67839)
+- [Course Canvas](https://canvas.tufts.edu/courses/72751)
 - [Course GitHub](https://github.com/Tufts-University/NLP-Fall25)
 - [Tufts academic calendar](https://students.tufts.edu/registrar/courses-and-calendars/academic-calendar)
 - [Assignment & presentation workflow](teams.md)
