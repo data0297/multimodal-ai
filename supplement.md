@@ -1,6 +1,6 @@
 # Supplemental materials
 
-## Tensorflow
+## Tensorflow Tutorial
 
 ### Understanding and installation [^1]
 - https://pgaleone.eu/tensorflow/2018/07/28/understanding-tensorflow-tensors-shape-static-dynamic/
