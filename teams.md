@@ -11,7 +11,7 @@
 - Each team will present one code review in class (which means going over the code and results in your assignment).
 - Each team will also be assigned to present one research paper in class.
 
-[^1] Please send me your github username so I can add you to the repo. 
+[^1]: Please send me your github username so I can add you to the repo. 
 
 ## Code
 - When you start your assignment, follow the instructions on the GitHub repo and write the code independently. Work within your own branch.  
