@@ -4,7 +4,7 @@
 
 - We will divide the class into several teams. 
 - Each team has been assigned a team lead. 
-- Assignment and due date will be posted on Canvas, but you will be directed to the [GitHub repo](https://github.com/Tufts-University/NLP-course-fall2024/tree/main/HWs) main branch for the Jupyter Notebook. [^1]
+- Assignment and due date will be posted on Canvas, but you will be directed to the [GitHub repo](https://github.com/Tufts-University/DATA0297-DL-SP26) main branch for the Jupyter Notebook. [^1]
 - Each person must create their own branch on the GitHub repo and only work from that branch. 
 - The grading will be based on the final status of the code in your individual branch. 
 - You are allowed to discuss the homework with your team before you submit. 
