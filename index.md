@@ -81,14 +81,14 @@ To adapt to the rapidly evolving field of AI, this course is designed to simulat
 | 4 | **Feb 09** | **CNN continued** | [Slides](https://www.youtube.com/watch?v=JnN_1Nh7w4M) | [CNN](https://cs231n.github.io/convolutional-networks/); [D2L Chap. 7](https://d2l.ai/chapter_convolutional-neural-networks/index.html) | <span style="color:#8a0317;font-weight:600">HW2.1 & 3.1 due</span> | | |
 | - | **Feb 16** | **<span style="color:#8a0317;font-weight:600;"><i>No Class</i></span> (President's Day)** | | | | | |
 | 5 | **Feb 19** | <span style="color:#8a0317;font-weight:600"><i>Thursday runs Monday schedule; </i></span> **CNN architectures** | [Slides](https://tufts.box.com/s/ep5b1y5bclkyjokt5s8gf2fv9l2k9nkp) | [D2L Chap. 8](https://d2l.ai/chapter_convolutional-modern/index.html); optional papers: [VGG](https://arxiv.org/abs/1409.1556); [ResNet](https://arxiv.org/abs/1512.03385) | HW5.1 out | | |
-| 6 | **Feb 23** | **Intro to NLP; word vectors; CNN for text classification** | [Slides] | SLP3 [Chap. 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf); [Chap. 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf) | <span style="color:#8a0317;font-weight:600">HW5.1 due</span> | | |
-| 7 | **March 02** | **RNN, LSTM, Transformer, LLMs** | [Slides] | SLP3 [Chap. 13](https://web.stanford.edu/~jurafsky/slp3/13.pdf); [Chap. 8](https://web.stanford.edu/~jurafsky/slp3/13.pdf); [Chap. 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf) | HW8.1 out | | |
+| 6 | **Feb 23** | **Intro to NLP; word vectors; CNN for text classification** | [Slides] | SLP3 [Chap. 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf); [Chap. 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf) || | |
+| 7 | **March 02** | **RNN, LSTM, Transformer, LLMs** | [Slides] | SLP3 [Chap. 13](https://web.stanford.edu/~jurafsky/slp3/13.pdf); [Chap. 8](https://web.stanford.edu/~jurafsky/slp3/13.pdf); [Chap. 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf) |  <span style="color:#8a0317;font-weight:600">HW5.1 due</span>; HW8.1 out | Code review Team C| |
 | - | **March 09** | **<span style="color:#8a0317;font-weight:600;"><i>No Class</i></span> (Spring recess)** | | | | | |
-| 8 | **March 16** | **Multimodal Large Language Models** | [Slides] | [CLIP](https://openai.com/index/clip/) | HW11.1 out; <span style="color:#8a0317;font-weight:600">HW8.1 due</span> | | |
-| 9 | **March 23** | **Working with audio data** | [Slides] | [Jupyter audio basics](https://musicinformationretrieval.com/content/1_introduction/ipython_audio.html) | | | |
-| 10 | **March 30** | **DNN architectures for audio task** | [Slides] | | <span style="color:#8a0317;font-weight:600">HW11.1 due</span>; <span style="color:#8a0317;font-weight:600">final project proposal due</span> | | |
-| 11 | **April 06** | **Speech, MIR, and DCASE** | [Slides] | | | | |
-| 12 | **April 13** | **Multimodal audio models** | [Slides] | [CLAP](https://arxiv.org/abs/2206.04769) | | | |
+| 8 | **March 16** | **Multimodal Large Language Models** | [Slides] | [CLIP](https://openai.com/index/clip/) | <span style="color:#8a0317;font-weight:600">HW8.1 due</span>; HW11.1 out | Reading R1 presentation Team A | |
+| 9 | **March 23** | **Working with audio data** | [Slides] | [Jupyter audio basics](https://musicinformationretrieval.com/content/1_introduction/ipython_audio.html) | <span style="color:#8a0317;font-weight:600">HW11.1 due</span>| Code Review Team B | |
+| 10 | **March 30** | **DNN architectures for audio task** | [Slides] | |  <span style="color:#8a0317;font-weight:600">final project proposal due</span>; HW14.1 out |Reading R2 presentation Team C | |
+| 11 | **April 06** | **Speech, MIR, and DCASE** | [Slides] | |HW14.1 due | Code Review Team A| |
+| 12 | **April 13** | **Multimodal audio models; Guest Lecture** | [Slides] | [CLAP](https://arxiv.org/abs/2206.04769) | | Reading R3 presentation Team B| |
 | - | **April 20** | **<span style="color:#8a0317;font-weight:600;"><i>No Class</i></span> (Patriot's Day)** | | | | | |
 | 13 | **April 27** | **Final presentation** | | | | | |
 | - | **May 10** | **Final paper due** | | | | | |
