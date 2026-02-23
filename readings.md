@@ -1,6 +1,9 @@
 # Research papers readings
 
-- TBD
+- [ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness](https://arxiv.org/abs/1811.12231)
+- [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198)
+- [Multi-label Music Genre Classification from Audio, Text, and Images Using Deep Features](https://arxiv.org/abs/1707.04916)
+
 
 # Presentations
 - Each team will present one research paper (even though everyone in the class should still read the paper)
