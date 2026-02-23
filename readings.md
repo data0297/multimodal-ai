@@ -1,8 +1,8 @@
 # Research papers readings
 
-- [ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness](https://arxiv.org/abs/1811.12231)
-- [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198)
-- [Multi-label Music Genre Classification from Audio, Text, and Images Using Deep Features](https://arxiv.org/abs/1707.04916)
+- R1: [ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness](https://arxiv.org/abs/1811.12231)
+- R2: [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198)
+- R3: [Multi-label Music Genre Classification from Audio, Text, and Images Using Deep Features](https://arxiv.org/abs/1707.04916)
 
 
 # Presentations
