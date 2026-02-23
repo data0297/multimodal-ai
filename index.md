@@ -21,6 +21,16 @@
   padding: 10px 15px; 
   ">
   
+<span style="font-weight:bold;">[Team leads]</span>: Team A: Emma; Team B: Qingzhu; Team C: Jingwen. For full team assignments see Canvas course page.
+</blockquote>
+
+<blockquote style="
+  border-left: 6px solid #118fcf; 
+  background-color: #f0f0f0; 
+  color: #000; 
+  padding: 10px 15px; 
+  ">
+  
 <span style="font-weight:bold;">[Note on this website]</span>: This course website provides a quick and practical guide to this course. The website will be updated throughout the term to reflect the latest information. For a comprehensive syllabus please see below.
 </blockquote>
 
@@ -84,11 +94,11 @@ To adapt to the rapidly evolving field of AI, this course is designed to simulat
 | 6 | **Feb 23** | **Intro to NLP; word vectors; CNN for text classification** | [Slides] | SLP3 [Chap. 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf); [Chap. 5](https://web.stanford.edu/~jurafsky/slp3/5.pdf) || | |
 | 7 | **March 02** | **RNN, LSTM, Transformer, LLMs** | [Slides] | SLP3 [Chap. 13](https://web.stanford.edu/~jurafsky/slp3/13.pdf); [Chap. 8](https://web.stanford.edu/~jurafsky/slp3/13.pdf); [Chap. 7](https://web.stanford.edu/~jurafsky/slp3/7.pdf) |  <span style="color:#8a0317;font-weight:600">HW5.1 due</span>; HW8.1 out | Code review Team C| |
 | - | **March 09** | **<span style="color:#8a0317;font-weight:600;"><i>No Class</i></span> (Spring recess)** | | | | | |
-| 8 | **March 16** | **Multimodal Large Language Models** | [Slides] | [CLIP](https://openai.com/index/clip/) | <span style="color:#8a0317;font-weight:600">HW8.1 due</span>; HW11.1 out | Reading R1 presentation Team A | |
+| 8 | **March 16** | **Multimodal Large Language Models** | [Slides] | [CLIP](https://openai.com/index/clip/) | <span style="color:#8a0317;font-weight:600">HW8.1 due</span>; HW11.1 out | [Reading R1](readings.md) presentation Team A | |
 | 9 | **March 23** | **Working with audio data** | [Slides] | [Jupyter audio basics](https://musicinformationretrieval.com/content/1_introduction/ipython_audio.html) | <span style="color:#8a0317;font-weight:600">HW11.1 due</span>| Code Review Team B | |
-| 10 | **March 30** | **DNN architectures for audio task** | [Slides] | |  <span style="color:#8a0317;font-weight:600">final project proposal due</span>; HW14.1 out |Reading R2 presentation Team C | |
+| 10 | **March 30** | **DNN architectures for audio task** | [Slides] | |  <span style="color:#8a0317;font-weight:600">final project proposal due</span>; HW14.1 out |[Reading R2](readings.md) presentation Team C | |
 | 11 | **April 06** | **Speech, MIR, and DCASE** | [Slides] | |HW14.1 due | Code Review Team A| |
-| 12 | **April 13** | **Multimodal audio models; Guest Lecture** | [Slides] | [CLAP](https://arxiv.org/abs/2206.04769) | | Reading R3 presentation Team B| |
+| 12 | **April 13** | **Multimodal audio models; Guest Lecture** | [Slides] | [CLAP](https://arxiv.org/abs/2206.04769) | | [Reading R3](readings.md) presentation Team B| |
 | - | **April 20** | **<span style="color:#8a0317;font-weight:600;"><i>No Class</i></span> (Patriot's Day)** | | | | | |
 | 13 | **April 27** | **Final presentation** | | | | | |
 | - | **May 10** | **Final paper due** | | | | | |
