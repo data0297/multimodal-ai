@@ -1,6 +1,6 @@
 # Guest speakers
 
-## Application of Machine Learning on Audio and More
+## Application of Audio Machine Learning: Audio-Visual Speech Enhancement 
 >Speaker: Sile Yin, Senior ML engineer at Bose Research  
 Time: April 13, 2026, 6-7pm   
 Location: Anderson Wing TTC, Room 208, Medford campus, Tufts University   
