@@ -97,8 +97,8 @@ To adapt to the rapidly evolving field of AI, this course is designed to simulat
 | - | **March 16** | **<span style="color:#8a0317;font-weight:600;"><i>No Class</i></span> (Spring recess)** | | | | | |
 | 9 | **March 23** | **Working with audio data** | [Slides](https://tufts.box.com/s/nxjmxv8f9a5uobc0bcm5er68vinplx9z) | [Jupyter audio basics](https://musicinformationretrieval.com/content/1_introduction/ipython_audio.html) | | [Reading R1](readings.md) presentation **Team A**; Code Review **Team B** (HW5.1,8.1) | |
 | 10 | **March 30** | **Audio signal processing** | cont. from last time | |  <span style="color:#8a0317;font-weight:600">HW11.2 due; final project proposal due</span>; HW14.1 out |[Reading R2](readings.md) presentation **Team C** | |
-| 11 | **April 06** | **Deep learning for audio, CLAP** | [Slides] |[CLAP](https://arxiv.org/abs/2206.04769) |HW14.1 due | Code Review **Team A** (HW11.2,14.1)| |
-| 12 | **April 13** | **Multimodal models; [Guest Lecture](guest-speaker.md)** | [Slides] |  | | [Reading R3](readings.md) presentation **Team B**| |
+| 11 | **April 06** | **Deep learning for audio, CLAP** | [Slides](https://tufts.box.com/s/f7l81sflrlbapx437mkrsnfu6zwqmtub) |[CLAP](https://arxiv.org/abs/2206.04769) |HW14.1 due | Code Review **Team A** (HW11.2,14.1)| |
+| 12 | **April 13** | **Multimodal models; [Guest Lecture](guest-speaker.md)** | [Slides](https://tufts.box.com/s/cipb8iftpn37oosqzaw6gmlle53bwjhn) |  | | [Reading R3](readings.md) presentation **Team B**| |
 | - | **April 20** | **<span style="color:#8a0317;font-weight:600;"><i>No Class</i></span> (Patriot's Day)** | | | | | |
 | 13 | **April 27** | **Final presentation** | | | | | |
 | - | **May 10** | **Final paper due** | | | | | |
