@@ -101,7 +101,7 @@ To adapt to the rapidly evolving field of AI, this course is designed to simulat
 | 12 | **April 13** | **Multimodal models; [Guest Lecture](guest-speaker.md)** | [Slides](https://tufts.box.com/s/cipb8iftpn37oosqzaw6gmlle53bwjhn) |  | | [Reading R3](readings.md) presentation **Team B**| |
 | - | **April 20** | **<span style="color:#8a0317;font-weight:600;"><i>No Class</i></span> (Patriot's Day)** | | | | | |
 | 13 | **April 27** | **Final presentation** | | | | | |
-| - | **May 10** | **Final paper due** | | | | | |
+| - | **May 6** | **Final paper due** | | | | | |
  
 
 ---
